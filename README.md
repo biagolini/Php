@@ -4,6 +4,8 @@
 ## A
 ### AWS Hello World
 https://github.com/biagolini/PhpAWSHelloWorld
+### AWS RDS MySQL Connection
+https://github.com/biagolini/PhpAWSRdsConnection
 
 ## B
 
