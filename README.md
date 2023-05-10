@@ -46,6 +46,8 @@ https://github.com/biagolini/PhpMysqlConnection
 ## S
 ### Symfony AWS Hello World
 https://github.com/biagolini/PhpSymfonyAWSHelloWorld
+### Symfony Twig
+https://github.com/biagolini/PhpSymfonyTwig
 
 ## T
 
