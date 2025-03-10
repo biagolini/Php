@@ -1,11 +1,26 @@
-# <u>PHP</u>
-**Autor:** Carlos Biagolini-Jr.
+# PHP Projects
+
+**Author:** Carlos Biagolini-Jr.
+
+**LinkedIn:** [https://www.linkedin.com/in/biagolini/](https://www.linkedin.com/in/biagolini/)
+
+**Medium:** [https://medium.com/@biagolini](https://medium.com/@biagolini)
+
+[EN]: This repository serves as an index for various PHP-based projects and code examples. Each linked repository demonstrates different aspects of PHP programming, including AWS integrations, MySQL database connections, and Symfony framework usage. The goal is to provide practical examples that can be used as references for learning and development. For more in-depth discussions and technical articles, visit my LinkedIn and Medium profiles.
+
+---
 
 ## A
+
 ### AWS Hello World
-https://github.com/biagolini/PhpAWSHelloWorld
+A simple AWS Hello World example in PHP.
+
+[https://github.com/biagolini/PhpAWSHelloWorld](https://github.com/biagolini/PhpAWSHelloWorld)
+
 ### AWS RDS MySQL Connection
-https://github.com/biagolini/PhpAWSRdsConnection
+Demonstrates how to connect to an AWS RDS MySQL database using PHP.
+
+[https://github.com/biagolini/PhpAWSRdsConnection](https://github.com/biagolini/PhpAWSRdsConnection)
 
 ## B
 
@@ -30,8 +45,11 @@ https://github.com/biagolini/PhpAWSRdsConnection
 ## L
 
 ## M
+
 ### MySQL Connection
-https://github.com/biagolini/PhpMysqlConnection
+A basic example of connecting to a MySQL database using PHP.
+
+[https://github.com/biagolini/PhpMysqlConnection](https://github.com/biagolini/PhpMysqlConnection)
 
 ## N
 
@@ -44,12 +62,21 @@ https://github.com/biagolini/PhpMysqlConnection
 ## R
 
 ## S
+
 ### Symfony AWS Hello World
-https://github.com/biagolini/PhpSymfonyAWSHelloWorld
+A simple "Hello World" application using Symfony and AWS.
+
+[https://github.com/biagolini/PhpSymfonyAWSHelloWorld](https://github.com/biagolini/PhpSymfonyAWSHelloWorld)
+
 ### Symfony MySQL
-https://github.com/biagolini/PhpSymfonyMysqlConnection
+Demonstrates MySQL database connection using Symfony.
+
+[https://github.com/biagolini/PhpSymfonyMysqlConnection](https://github.com/biagolini/PhpSymfonyMysqlConnection)
+
 ### Symfony Twig
-https://github.com/biagolini/PhpSymfonyTwig
+Example of using the Twig templating engine in a Symfony application.
+
+[https://github.com/biagolini/PhpSymfonyTwig](https://github.com/biagolini/PhpSymfonyTwig)
 
 ## T
 
@@ -59,8 +86,9 @@ https://github.com/biagolini/PhpSymfonyTwig
 
 ## W
 
-## X 
+## X
 
-## Y 
+## Y
 
 ## Z
+
